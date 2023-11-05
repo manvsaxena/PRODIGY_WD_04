@@ -1,0 +1,92 @@
+html,body{
+    background-image: linear-gradient(black,#127D84);
+}
+
+header #heading{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+header span{
+    font-weight: 100;
+}
+
+.blog_button a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    font-size: 15px;
+    position: absolute;
+    right: 10vh;
+    top: 15px;
+    text-decoration: none;
+}
+
+.blog_button h2:hover{
+    color: #127D84;
+}
+
+.video_section{
+    color: white;
+}
+
+.video_section h4{
+    position: absolute;
+    right: 64vh;
+    top: 24vh;
+    font-size: 3vh;
+}
+
+.video_section h1{
+    position: absolute;
+    top: 30vh;
+    right: 30vh;
+    font-size: 10vh;
+}
+
+.video_section span{
+    color: #127D84;
+}
+
+#about_head{
+    color: #fffdfd3e;
+    font-size: 7vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+
+#about_para{
+    color: white;
+    font-size: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 90px;
+    margin-bottom: 20px;
+}
+
+
+#footer{
+    background-color: #00000046;
+    height: 60px;
+    width: 102%;
+    top: 10px;
+    position: relative;
+    right: 20px;
+}
+#footer p{
+    position: relative;
+    top: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
